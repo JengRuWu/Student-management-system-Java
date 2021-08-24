@@ -6,6 +6,6 @@
 
 ## Tools Used
 - Built RESTful web services with **Java Spring** and **Maven**.
-- The data is stored in **MySQL** databases, and the data flow is optimized with **Spring Data JPA**.
+- Utilized **MySQL** databases to store data, and optimized the data flows with **Spring Data JPA**.
 - Enabled advanced database mappings with **MyBatis**.
 - Implemented user authentication and authorization with **Apache Shiro**.
