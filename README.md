@@ -6,5 +6,6 @@
 
 ## Tools Used
 - The app is developed with **Java Spring** and **Maven**.
-- The data is stored in **MySQL** databases, and the data flow is optimized with **Spring Data JPA** and **MyBatis**.
-- Applied **Apache Shiro** to provide user authentication and authorization.
+- The data is stored in **MySQL** databases, and the data flow is optimized with **Spring Data JPA**.
+- Enabled advanced database mappings with **MyBatis**.
+- Implemented user authentication and authorization with **Apache Shiro**.
